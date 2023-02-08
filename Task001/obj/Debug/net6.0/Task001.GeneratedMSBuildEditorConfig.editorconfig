@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Task001
+build_property.ProjectDir = /Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары) 30.01.23/Урок 3. Базовые алгоритмы. Продолжение/homework003/Task001/
